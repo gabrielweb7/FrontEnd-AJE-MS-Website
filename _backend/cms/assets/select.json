@@ -1,0 +1,1334 @@
+{
+    "success": true,
+    "results": [
+        {
+            "value": "african-elephant",
+            "name": "African Elephant"
+        },
+        {
+            "value": "african-wild dog",
+            "name": "African Wild Dog"
+        },
+        {
+            "value": "albacore-tuna",
+            "name": "Albacore Tuna"
+        },
+        {
+            "value": "amazon-river dolphin",
+            "name": "Amazon River Dolphin"
+        },
+        {
+            "value": "amur-leopard",
+            "name": "Amur Leopard"
+        },
+        {
+            "value": "amur-tiger",
+            "name": "Amur Tiger"
+        },
+        {
+            "value": "arctic-fox",
+            "name": "Arctic Fox"
+        },
+        {
+            "value": "arctic-wolf",
+            "name": "Arctic Wolf"
+        },
+        {
+            "value": "asian-elephant",
+            "name": "Asian Elephant"
+        },
+        {
+            "value": "beluga",
+            "name": "Beluga"
+        },
+        {
+            "value": "bengal-tiger",
+            "name": "Bengal Tiger"
+        },
+        {
+            "value": "bigeye-tuna",
+            "name": "Bigeye Tuna"
+        },
+        {
+            "value": "black-rhino",
+            "name": "Black Rhino"
+        },
+        {
+            "value": "black-spider monkey",
+            "name": "Black Spider Monkey"
+        },
+        {
+            "value": "black-footed-ferret",
+            "name": "Black-footed Ferret"
+        },
+        {
+            "value": "blue-whale",
+            "name": "Blue Whale"
+        },
+        {
+            "value": "bluefin-tuna",
+            "name": "Bluefin Tuna"
+        },
+        {
+            "value": "bonobo",
+            "name": "Bonobo"
+        },
+        {
+            "value": "bornean-orangutan",
+            "name": "Bornean Orangutan"
+        },
+        {
+            "value": "borneo-pygmy elephant",
+            "name": "Borneo Pygmy Elephant"
+        },
+        {
+            "value": "bowhead-whale",
+            "name": "Bowhead Whale"
+        },
+        {
+            "value": "brown-bear",
+            "name": "Brown Bear"
+        },
+        {
+            "value": "chimpanzee",
+            "name": "Chimpanzee"
+        },
+        {
+            "value": "common-bottlenose dolphin",
+            "name": "Common Bottlenose Dolphin"
+        },
+        {
+            "value": "cross-river gorilla",
+            "name": "Cross River Gorilla"
+        },
+        {
+            "value": "dolphins-and porpoises",
+            "name": "Dolphins and Porpoises"
+        },
+        {
+            "value": "dugong",
+            "name": "Dugong"
+        },
+        {
+            "value": "eastern-lowland gorilla",
+            "name": "Eastern Lowland Gorilla"
+        },
+        {
+            "value": "elephant",
+            "name": "Elephant"
+        },
+        {
+            "value": "fin-whale",
+            "name": "Fin Whale"
+        },
+        {
+            "value": "forest-elephant",
+            "name": "Forest Elephant"
+        },
+        {
+            "value": "galápagos-penguin",
+            "name": "Galápagos Penguin"
+        },
+        {
+            "value": "ganges-river dolphin",
+            "name": "Ganges River Dolphin"
+        },
+        {
+            "value": "giant-panda",
+            "name": "Giant Panda"
+        },
+        {
+            "value": "giant-tortoise",
+            "name": "Giant Tortoise"
+        },
+        {
+            "value": "gorilla",
+            "name": "Gorilla"
+        },
+        {
+            "value": "gray-whale",
+            "name": "Gray Whale"
+        },
+        {
+            "value": "great-white shark",
+            "name": "Great White Shark"
+        },
+        {
+            "value": "greater-one-horned rhino",
+            "name": "Greater One-Horned Rhino"
+        },
+        {
+            "value": "greater-sage-grouse",
+            "name": "Greater Sage-Grouse"
+        },
+        {
+            "value": "green-turtle",
+            "name": "Green Turtle"
+        },
+        {
+            "value": "hawksbill-turtle",
+            "name": "Hawksbill Turtle"
+        },
+        {
+            "value": "hector's-dolphin",
+            "name": "Hector's "
+        },
+        {
+            "value": "humphead-wrasse",
+            "name": "Humphead Wrasse"
+        },
+        {
+            "value": "indian-elephant",
+            "name": "Indian Elephant"
+        },
+        {
+            "value": "indochinese-tiger",
+            "name": "Indochinese Tiger"
+        },
+        {
+            "value": "indus-river dolphin",
+            "name": "Indus River Dolphin"
+        },
+        {
+            "value": "irrawaddy-dolphin",
+            "name": "Irrawaddy Dolphin"
+        },
+        {
+            "value": "jaguar",
+            "name": "Jaguar"
+        },
+        {
+            "value": "javan-rhino",
+            "name": "Javan Rhino"
+        },
+        {
+            "value": "leatherback-turtle",
+            "name": "Leatherback Turtle"
+        },
+        {
+            "value": "loggerhead-turtle",
+            "name": "Loggerhead Turtle"
+        },
+        {
+            "value": "macaw",
+            "name": "Macaw"
+        },
+        {
+            "value": "malayan-tiger",
+            "name": "Malayan Tiger"
+        },
+        {
+            "value": "marine-iguana",
+            "name": "Marine Iguana"
+        },
+        {
+            "value": "monarch-butterfly",
+            "name": "Monarch Butterfly"
+        },
+        {
+            "value": "mountain-gorilla",
+            "name": "Mountain Gorilla"
+        },
+        {
+            "value": "mountain-plover",
+            "name": "Mountain Plover"
+        },
+        {
+            "value": "narwhal",
+            "name": "Narwhal"
+        },
+        {
+            "value": "north-atlantic right whale",
+            "name": "North Atlantic Right Whale"
+        },
+        {
+            "value": "olive-ridley turtle",
+            "name": "Olive Ridley Turtle"
+        },
+        {
+            "value": "orangutan",
+            "name": "Orangutan"
+        },
+        {
+            "value": "pacific-salmon",
+            "name": "Pacific Salmon"
+        },
+        {
+            "value": "penguin",
+            "name": "Penguin"
+        },
+        {
+            "value": "plains-bison",
+            "name": "Plains Bison"
+        },
+        {
+            "value": "poison-dart frog",
+            "name": "Poison Dart Frog"
+        },
+        {
+            "value": "polar-bear",
+            "name": "Polar Bear"
+        },
+        {
+            "value": "pronghorn",
+            "name": "Pronghorn"
+        },
+        {
+            "value": "red-panda",
+            "name": "Red Panda"
+        },
+        {
+            "value": "rhino",
+            "name": "Rhino"
+        },
+        {
+            "value": "saola",
+            "name": "Saola"
+        },
+        {
+            "value": "savanna-elephant",
+            "name": "Savanna Elephant"
+        },
+        {
+            "value": "sea-lions",
+            "name": "Sea Lions"
+        },
+        {
+            "value": "sea-turtle",
+            "name": "Sea Turtle"
+        },
+        {
+            "value": "seals",
+            "name": "Seals"
+        },
+        {
+            "value": "sei-whale",
+            "name": "Sei Whale"
+        },
+        {
+            "value": "shark",
+            "name": "Shark"
+        },
+        {
+            "value": "skipjack-tuna",
+            "name": "Skipjack Tuna"
+        },
+        {
+            "value": "sloth",
+            "name": "Sloth"
+        },
+        {
+            "value": "snow-leopard",
+            "name": "Snow Leopard"
+        },
+        {
+            "value": "south-china tiger",
+            "name": "South China Tiger"
+        },
+        {
+            "value": "southern-rockhopper penguin",
+            "name": "Southern rockhopper penguin"
+        },
+        {
+            "value": "sri-lankan elephant",
+            "name": "Sri Lankan Elephant"
+        },
+        {
+            "value": "sumatran-elephant ",
+            "name": "Sumatran Elephant "
+        },
+        {
+            "value": "sumatran-orangutan",
+            "name": "Sumatran Orangutan"
+        },
+        {
+            "value": "sumatran-rhino",
+            "name": "Sumatran Rhino"
+        },
+        {
+            "value": "sumatran-tiger",
+            "name": "Sumatran Tiger"
+        },
+        {
+            "value": "swift-fox",
+            "name": "Swift Fox"
+        },
+        {
+            "value": "tiger",
+            "name": "Tiger"
+        },
+        {
+            "value": "tree-kangaroo",
+            "name": "Tree Kangaroo"
+        },
+        {
+            "value": "tuna",
+            "name": "Tuna"
+        },
+        {
+            "value": "vaquita",
+            "name": "Vaquita"
+        },
+        {
+            "value": "western-lowland gorilla",
+            "name": "Western Lowland Gorilla"
+        },
+        {
+            "value": "whale-shark",
+            "name": "Whale Shark"
+        },
+        {
+            "value": "whale",
+            "name": "Whale"
+        },
+        {
+            "value": "white-rhino",
+            "name": "White Rhino"
+        },
+        {
+            "value": "yangtze-finless porpoise",
+            "name": "Yangtze Finless Porpoise"
+        },
+        {
+            "value": "yellowfin-tuna",
+            "name": "Yellowfin Tuna"
+        },
+        {
+            "value": "aardvark",
+            "name": "Aardvark"
+        },
+        {
+            "value": "albatross",
+            "name": "Albatross"
+        },
+        {
+            "value": "alligator",
+            "name": "Alligator"
+        },
+        {
+            "value": "alpaca",
+            "name": "Alpaca"
+        },
+        {
+            "value": "ant",
+            "name": "Ant"
+        },
+        {
+            "value": "anteater",
+            "name": "Anteater"
+        },
+        {
+            "value": "antelope",
+            "name": "Antelope"
+        },
+        {
+            "value": "ape",
+            "name": "Ape"
+        },
+        {
+            "value": "armadillo",
+            "name": "Armadillo"
+        },
+        {
+            "value": "ass/donkey",
+            "name": "Ass/Donkey"
+        },
+        {
+            "value": "baboon",
+            "name": "Baboon"
+        },
+        {
+            "value": "badger",
+            "name": "Badger"
+        },
+        {
+            "value": "barracuda",
+            "name": "Barracuda"
+        },
+        {
+            "value": "bat",
+            "name": "Bat"
+        },
+        {
+            "value": "bear",
+            "name": "Bear"
+        },
+        {
+            "value": "beaver",
+            "name": "Beaver"
+        },
+        {
+            "value": "bee",
+            "name": "Bee"
+        },
+        {
+            "value": "bison",
+            "name": "Bison"
+        },
+        {
+            "value": "boar",
+            "name": "Boar"
+        },
+        {
+            "value": "african-buffalo",
+            "name": "African Buffalo"
+        },
+        {
+            "value": "butterfly",
+            "name": "Butterfly"
+        },
+        {
+            "value": "camel",
+            "name": "Camel"
+        },
+        {
+            "value": "capybara",
+            "name": "Capybara"
+        },
+        {
+            "value": "caribou",
+            "name": "Caribou"
+        },
+        {
+            "value": "cassowary",
+            "name": "Cassowary"
+        },
+        {
+            "value": "cat",
+            "name": "Cat"
+        },
+        {
+            "value": "caterpillar",
+            "name": "Caterpillar"
+        },
+        {
+            "value": "chamois",
+            "name": "Chamois"
+        },
+        {
+            "value": "cheetah",
+            "name": "Cheetah"
+        },
+        {
+            "value": "chicken",
+            "name": "Chicken"
+        },
+        {
+            "value": "chimpanzee",
+            "name": "Chimpanzee"
+        },
+        {
+            "value": "chinchilla",
+            "name": "Chinchilla"
+        },
+        {
+            "value": "chough",
+            "name": "Chough"
+        },
+        {
+            "value": "clam",
+            "name": "Clam"
+        },
+        {
+            "value": "cobra",
+            "name": "Cobra"
+        },
+        {
+            "value": "cockroach",
+            "name": "Cockroach"
+        },
+        {
+            "value": "cod",
+            "name": "Cod"
+        },
+        {
+            "value": "cormorant",
+            "name": "Cormorant"
+        },
+        {
+            "value": "coyote",
+            "name": "Coyote"
+        },
+        {
+            "value": "crab",
+            "name": "Crab"
+        },
+        {
+            "value": "crane",
+            "name": "Crane"
+        },
+        {
+            "value": "crocodile",
+            "name": "Crocodile"
+        },
+        {
+            "value": "crow",
+            "name": "Crow"
+        },
+        {
+            "value": "curlew",
+            "name": "Curlew"
+        },
+        {
+            "value": "deer",
+            "name": "Deer"
+        },
+        {
+            "value": "dinosaur",
+            "name": "Dinosaur"
+        },
+        {
+            "value": "dog",
+            "name": "Dog"
+        },
+        {
+            "value": "dogfish",
+            "name": "Dogfish"
+        },
+        {
+            "value": "dolphin",
+            "name": "Dolphin"
+        },
+        {
+            "value": "donkey",
+            "name": "Donkey"
+        },
+        {
+            "value": "dotterel",
+            "name": "Dotterel"
+        },
+        {
+            "value": "dove",
+            "name": "Dove"
+        },
+        {
+            "value": "dragonfly",
+            "name": "Dragonfly"
+        },
+        {
+            "value": "duck",
+            "name": "Duck"
+        },
+        {
+            "value": "dugong",
+            "name": "Dugong"
+        },
+        {
+            "value": "dunlin",
+            "name": "Dunlin"
+        },
+        {
+            "value": "eagle",
+            "name": "Eagle"
+        },
+        {
+            "value": "echidna",
+            "name": "Echidna"
+        },
+        {
+            "value": "eel",
+            "name": "Eel"
+        },
+        {
+            "value": "eland",
+            "name": "Eland"
+        },
+        {
+            "value": "elephant",
+            "name": "Elephant"
+        },
+        {
+            "value": "elephant-seal",
+            "name": "Elephant seal"
+        },
+        {
+            "value": "elk",
+            "name": "Elk"
+        },
+        {
+            "value": "emu",
+            "name": "Emu"
+        },
+        {
+            "value": "falcon",
+            "name": "Falcon"
+        },
+        {
+            "value": "ferret",
+            "name": "Ferret"
+        },
+        {
+            "value": "finch",
+            "name": "Finch"
+        },
+        {
+            "value": "fish",
+            "name": "Fish"
+        },
+        {
+            "value": "flamingo",
+            "name": "Flamingo"
+        },
+        {
+            "value": "fly",
+            "name": "Fly"
+        },
+        {
+            "value": "fox",
+            "name": "Fox"
+        },
+        {
+            "value": "frog",
+            "name": "Frog"
+        },
+        {
+            "value": "gaur",
+            "name": "Gaur"
+        },
+        {
+            "value": "gazelle",
+            "name": "Gazelle"
+        },
+        {
+            "value": "gerbil",
+            "name": "Gerbil"
+        },
+        {
+            "value": "giraffe",
+            "name": "Giraffe"
+        },
+        {
+            "value": "gnat",
+            "name": "Gnat"
+        },
+        {
+            "value": "gnu",
+            "name": "Gnu"
+        },
+        {
+            "value": "goat",
+            "name": "Goat"
+        },
+        {
+            "value": "goose",
+            "name": "Goose"
+        },
+        {
+            "value": "goldfinch",
+            "name": "Goldfinch"
+        },
+        {
+            "value": "goldfish",
+            "name": "Goldfish"
+        },
+        {
+            "value": "gorilla",
+            "name": "Gorilla"
+        },
+        {
+            "value": "goshawk",
+            "name": "Goshawk"
+        },
+        {
+            "value": "grasshopper",
+            "name": "Grasshopper"
+        },
+        {
+            "value": "grouse",
+            "name": "Grouse"
+        },
+        {
+            "value": "guanaco",
+            "name": "Guanaco"
+        },
+        {
+            "value": "guinea-fowl",
+            "name": "Guinea fowl"
+        },
+        {
+            "value": "guinea-pig",
+            "name": "Guinea pig"
+        },
+        {
+            "value": "gull",
+            "name": "Gull"
+        },
+        {
+            "value": "hamster",
+            "name": "Hamster"
+        },
+        {
+            "value": "hare",
+            "name": "Hare"
+        },
+        {
+            "value": "hawk",
+            "name": "Hawk"
+        },
+        {
+            "value": "hedgehog",
+            "name": "Hedgehog"
+        },
+        {
+            "value": "heron",
+            "name": "Heron"
+        },
+        {
+            "value": "herring",
+            "name": "Herring"
+        },
+        {
+            "value": "hippopotamus",
+            "name": "Hippopotamus"
+        },
+        {
+            "value": "hornet",
+            "name": "Hornet"
+        },
+        {
+            "value": "horse",
+            "name": "Horse"
+        },
+        {
+            "value": "human",
+            "name": "Human"
+        },
+        {
+            "value": "hummingbird",
+            "name": "Hummingbird"
+        },
+        {
+            "value": "hyena",
+            "name": "Hyena"
+        },
+        {
+            "value": "ibex",
+            "name": "Ibex"
+        },
+        {
+            "value": "ibis",
+            "name": "Ibis"
+        },
+        {
+            "value": "jackal",
+            "name": "Jackal"
+        },
+        {
+            "value": "jaguar",
+            "name": "Jaguar"
+        },
+        {
+            "value": "jay",
+            "name": "Jay"
+        },
+        {
+            "value": "jay-blue",
+            "name": "Jay Blue"
+        },
+        {
+            "value": "jellyfish",
+            "name": "Jellyfish"
+        },
+        {
+            "value": "kangaroo",
+            "name": "Kangaroo"
+        },
+        {
+            "value": "kingfisher",
+            "name": "Kingfisher"
+        },
+        {
+            "value": "koala",
+            "name": "Koala"
+        },
+        {
+            "value": "komodo-dragon",
+            "name": "Komodo Dragon"
+        },
+        {
+            "value": "kookabura",
+            "name": "Kookabura"
+        },
+        {
+            "value": "kouprey",
+            "name": "Kouprey"
+        },
+        {
+            "value": "kudu",
+            "name": "Kudu"
+        },
+        {
+            "value": "lapwing",
+            "name": "Lapwing"
+        },
+        {
+            "value": "lark",
+            "name": "Lark"
+        },
+        {
+            "value": "lemur",
+            "name": "Lemur"
+        },
+        {
+            "value": "leopard",
+            "name": "Leopard"
+        },
+        {
+            "value": "lion",
+            "name": "Lion"
+        },
+        {
+            "value": "llama",
+            "name": "Llama"
+        },
+        {
+            "value": "lobster",
+            "name": "Lobster"
+        },
+        {
+            "value": "locust",
+            "name": "Locust"
+        },
+        {
+            "value": "loris",
+            "name": "Loris"
+        },
+        {
+            "value": "louse",
+            "name": "Louse"
+        },
+        {
+            "value": "lyrebird",
+            "name": "Lyrebird"
+        },
+        {
+            "value": "magpie",
+            "name": "Magpie"
+        },
+        {
+            "value": "mallard",
+            "name": "Mallard"
+        },
+        {
+            "value": "manatee",
+            "name": "Manatee"
+        },
+        {
+            "value": "mandrill",
+            "name": "Mandrill"
+        },
+        {
+            "value": "mantis",
+            "name": "Mantis"
+        },
+        {
+            "value": "marten",
+            "name": "Marten"
+        },
+        {
+            "value": "meerkat",
+            "name": "Meerkat"
+        },
+        {
+            "value": "mink",
+            "name": "Mink"
+        },
+        {
+            "value": "mole",
+            "name": "Mole"
+        },
+        {
+            "value": "mongoose",
+            "name": "Mongoose"
+        },
+        {
+            "value": "monkey",
+            "name": "Monkey"
+        },
+        {
+            "value": "moose",
+            "name": "Moose"
+        },
+        {
+            "value": "mouse",
+            "name": "Mouse"
+        },
+        {
+            "value": "mosquito",
+            "name": "Mosquito"
+        },
+        {
+            "value": "mule",
+            "name": "Mule"
+        },
+        {
+            "value": "narwhal",
+            "name": "Narwhal"
+        },
+        {
+            "value": "newt",
+            "name": "Newt"
+        },
+        {
+            "value": "nightingale",
+            "name": "Nightingale"
+        },
+        {
+            "value": "octopus",
+            "name": "Octopus"
+        },
+        {
+            "value": "okapi",
+            "name": "Okapi"
+        },
+        {
+            "value": "opossum",
+            "name": "Opossum"
+        },
+        {
+            "value": "oryx",
+            "name": "Oryx"
+        },
+        {
+            "value": "ostrich",
+            "name": "Ostrich"
+        },
+        {
+            "value": "otter",
+            "name": "Otter"
+        },
+        {
+            "value": "owl",
+            "name": "Owl"
+        },
+        {
+            "value": "oyster",
+            "name": "Oyster"
+        },
+        {
+            "value": "panther",
+            "name": "Panther"
+        },
+        {
+            "value": "parrot",
+            "name": "Parrot"
+        },
+        {
+            "value": "panda",
+            "name": "Panda"
+        },
+        {
+            "value": "partridge",
+            "name": "Partridge"
+        },
+        {
+            "value": "peafowl",
+            "name": "Peafowl"
+        },
+        {
+            "value": "pelican",
+            "name": "Pelican"
+        },
+        {
+            "value": "penguin",
+            "name": "Penguin"
+        },
+        {
+            "value": "pheasant",
+            "name": "Pheasant"
+        },
+        {
+            "value": "pig",
+            "name": "Pig"
+        },
+        {
+            "value": "pigeon",
+            "name": "Pigeon"
+        },
+        {
+            "value": "pony",
+            "name": "Pony"
+        },
+        {
+            "value": "porcupine",
+            "name": "Porcupine"
+        },
+        {
+            "value": "porpoise",
+            "name": "Porpoise"
+        },
+        {
+            "value": "prairie-dog",
+            "name": "Prairie Dog"
+        },
+        {
+            "value": "quail",
+            "name": "Quail"
+        },
+        {
+            "value": "quelea",
+            "name": "Quelea"
+        },
+        {
+            "value": "quetzal",
+            "name": "Quetzal"
+        },
+        {
+            "value": "rabbit",
+            "name": "Rabbit"
+        },
+        {
+            "value": "raccoon",
+            "name": "Raccoon"
+        },
+        {
+            "value": "rail",
+            "name": "Rail"
+        },
+        {
+            "value": "ram",
+            "name": "Ram"
+        },
+        {
+            "value": "rat",
+            "name": "Rat"
+        },
+        {
+            "value": "raven",
+            "name": "Raven"
+        },
+        {
+            "value": "red-deer",
+            "name": "Red deer"
+        },
+        {
+            "value": "red-panda",
+            "name": "Red panda"
+        },
+        {
+            "value": "reindeer",
+            "name": "Reindeer"
+        },
+        {
+            "value": "rhinoceros",
+            "name": "Rhinoceros"
+        },
+        {
+            "value": "rook",
+            "name": "Rook"
+        },
+        {
+            "value": "salamander",
+            "name": "Salamander"
+        },
+        {
+            "value": "salmon",
+            "name": "Salmon"
+        },
+        {
+            "value": "sand-dollar",
+            "name": "Sand Dollar"
+        },
+        {
+            "value": "sandpiper",
+            "name": "Sandpiper"
+        },
+        {
+            "value": "sardine",
+            "name": "Sardine"
+        },
+        {
+            "value": "scorpion",
+            "name": "Scorpion"
+        },
+        {
+            "value": "sea-lion",
+            "name": "Sea lion"
+        },
+        {
+            "value": "sea-urchin",
+            "name": "Sea Urchin"
+        },
+        {
+            "value": "seahorse",
+            "name": "Seahorse"
+        },
+        {
+            "value": "seal",
+            "name": "Seal"
+        },
+        {
+            "value": "shark",
+            "name": "Shark"
+        },
+        {
+            "value": "sheep",
+            "name": "Sheep"
+        },
+        {
+            "value": "shrew",
+            "name": "Shrew"
+        },
+        {
+            "value": "skunk",
+            "name": "Skunk"
+        },
+        {
+            "value": "snail",
+            "name": "Snail"
+        },
+        {
+            "value": "snake",
+            "name": "Snake"
+        },
+        {
+            "value": "sparrow",
+            "name": "Sparrow"
+        },
+        {
+            "value": "spider",
+            "name": "Spider"
+        },
+        {
+            "value": "spoonbill",
+            "name": "Spoonbill"
+        },
+        {
+            "value": "squid",
+            "name": "Squid"
+        },
+        {
+            "value": "squirrel",
+            "name": "Squirrel"
+        },
+        {
+            "value": "starling",
+            "name": "Starling"
+        },
+        {
+            "value": "stingray",
+            "name": "Stingray"
+        },
+        {
+            "value": "stinkbug",
+            "name": "Stinkbug"
+        },
+        {
+            "value": "stork",
+            "name": "Stork"
+        },
+        {
+            "value": "swallow",
+            "name": "Swallow"
+        },
+        {
+            "value": "swan",
+            "name": "Swan"
+        },
+        {
+            "value": "tapir",
+            "name": "Tapir"
+        },
+        {
+            "value": "tarsier",
+            "name": "Tarsier"
+        },
+        {
+            "value": "termite",
+            "name": "Termite"
+        },
+        {
+            "value": "toad",
+            "name": "Toad"
+        },
+        {
+            "value": "trout",
+            "name": "Trout"
+        },
+        {
+            "value": "turkey",
+            "name": "Turkey"
+        },
+        {
+            "value": "turtle",
+            "name": "Turtle"
+        },
+        {
+            "value": "vicuña",
+            "name": "Vicuña"
+        },
+        {
+            "value": "viper",
+            "name": "Viper"
+        },
+        {
+            "value": "vulture",
+            "name": "Vulture"
+        },
+        {
+            "value": "wallaby",
+            "name": "Wallaby"
+        },
+        {
+            "value": "walrus",
+            "name": "Walrus"
+        },
+        {
+            "value": "wasp",
+            "name": "Wasp"
+        },
+        {
+            "value": "water-buffalo",
+            "name": "Water Buffalo"
+        },
+        {
+            "value": "weasel",
+            "name": "Weasel"
+        },
+        {
+            "value": "whale",
+            "name": "Whale"
+        },
+        {
+            "value": "wildcat",
+            "name": "Wildcat"
+        },
+        {
+            "value": "wolf",
+            "name": "Wolf"
+        },
+        {
+            "value": "wolverine",
+            "name": "Wolverine"
+        },
+        {
+            "value": "wombat",
+            "name": "Wombat"
+        },
+        {
+            "value": "woodcock",
+            "name": "Woodcock"
+        },
+        {
+            "value": "woodpecker",
+            "name": "Woodpecker"
+        },
+        {
+            "value": "worm",
+            "name": "Worm"
+        },
+        {
+            "value": "wren",
+            "name": "Wren"
+        },
+        {
+            "value": "yak",
+            "name": "Yak"
+        },
+        {
+            "value": "zebra",
+            "name": "Zebra"
+        }
+    ]
+}
+

@@ -1,0 +1,18 @@
+/* Placeholder Vermelho */
+.placeholder-color-red::-webkit-input-placeholder { /* WebKit, Blink, Edge */color:    red;}
+.placeholder-color-red:-moz-placeholder { /* Mozilla Firefox 4 to 18 */color:    red;opacity:  1;}
+.placeholder-color-red::-moz-placeholder { /* Mozilla Firefox 19+ */color:    red;opacity:  1;}
+.placeholder-color-red:-ms-input-placeholder { /* Internet Explorer 10-11 */color:    red;}
+.placeholder-color-red::-ms-input-placeholder { /* Microsoft Edge */color:    red;}
+.placeholder-color-red::placeholder { /* Most modern browsers support this now. */color:    red;}
+
+/* Border Vermelho */
+.border-color-red { border: 1px solid red;}
+.border-color-red:focus { border: 1px solid red; }
+
+/* Login Page */
+.bgGrayVerde1, .bgGrayVerde1:focus { background: #869081; }
+
+.hide { display:none; }
+.table-bordered thead th, .table-bordered thead td { font-size:13px !important; }
+.table-bordered th, .table-bordered td { font-size:13px !important; }

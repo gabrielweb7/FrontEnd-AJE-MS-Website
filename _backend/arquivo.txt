@@ -1,0 +1,428 @@
+array (
+  'notificationCode' => '4F4654-4A00EF00EF2B-2EE4D6FF843C-20B904',
+  'notificationType' => 'transaction',
+)[02/08/2018 14:44:10] 
+ 
+array (
+)[02/08/2018 14:53:15] 
+ 
+array (
+  'notificationCode' => '2BC401-0C26E726E779-27747C6FB1E0-C65671',
+  'notificationType' => 'transaction',
+)[02/08/2018 15:03:40] 
+ 
+array (
+  'notificationCode' => '42BF18-20ED89ED8997-4BB4E7AF81C9-45DA03',
+  'notificationType' => 'transaction',
+)[02/08/2018 15:22:10] 
+ 
+array (
+  'notificationCode' => '658420-3CA985A9857D-8BB4245F9746-7D88A4',
+  'notificationType' => 'transaction',
+)[02/08/2018 15:22:48] 
+ 
+array (
+  'notificationCode' => '0BF189-D5DE69DE69A8-B334671FB8B5-64623C',
+  'notificationType' => 'transaction',
+)[02/08/2018 15:23:05] 
+ 
+array (
+  'notificationCode' => '4F4654-4A00EF00EF2B-2EE4D6FF843C-20B904',
+  'notificationType' => 'transaction',
+)[02/08/2018 15:23:51] 
+ 
+array (
+  'notificationCode' => '41CA79-5082888288D4-0AA4557FA47A-CEC4E7',
+  'notificationType' => 'transaction',
+)[02/08/2018 15:29:59] 
+ 
+array (
+  'notificationCode' => '6ADFAD-7A93689368F3-9224FB3F8D71-5C3E5A',
+  'notificationType' => 'transaction',
+)[02/08/2018 15:36:01] 
+ 
+array (
+  'notificationCode' => '607DD7-357B987B98E1-EDD445EF94CC-602F34',
+  'notificationType' => 'transaction',
+)[02/08/2018 15:36:20] 
+ 
+array (
+  'notificationCode' => '6BE890-AAD763D76371-C884E53FA864-9DB14B',
+  'notificationType' => 'transaction',
+)[02/08/2018 15:48:44] 
+ 
+array (
+  'notificationCode' => 'A8073E-E352715271DF-E0044F4F8094-DA0BBB',
+  'notificationType' => 'transaction',
+)[02/08/2018 15:48:59] 
+ 
+array (
+  'notificationCode' => 'C14CA1-80B10DB10DCB-2994705F8315-DC4E24',
+  'notificationType' => 'transaction',
+)[02/08/2018 15:49:06] 
+ 
+array (
+  'notificationCode' => 'D73273-4DB918B918B5-011493AF906C-D791DD',
+  'notificationType' => 'transaction',
+)[02/08/2018 15:49:11] 
+ 
+array (
+  'notificationCode' => 'EA9E2D-0C8E8F8E8FD2-B7743D8FA324-46FCE6',
+  'notificationType' => 'transaction',
+)[02/08/2018 15:49:16] 
+ 
+array (
+  'notificationCode' => 'E993482A-0B07-418E-8898-710AB5FB2627',
+  'notificationType' => 'transaction',
+)[02/08/2018 15:53:55] 
+ 
+array (
+  'notificationCode' => '41BE56-F737E937E99A-33349D3FA161-BCE82E',
+  'notificationType' => 'transaction',
+)[02/08/2018 16:15:51] 
+ 
+array (
+  'notificationCode' => 'AD3BFA-E98F768F76D7-BBB41F7F8B55-2FB2A2',
+  'notificationType' => 'transaction',
+)[02/08/2018 16:17:24] 
+ 
+array (
+  'notificationCode' => 'AF0BEE-D254F654F6CD-8444D83F9991-8E8F0F',
+  'notificationType' => 'transaction',
+)[02/08/2018 16:34:53] 
+ 
+array (
+  'notificationCode' => 'FBB5F3-49FAC9FAC9E9-5DD4D77FBB27-2A8A72',
+  'notificationType' => 'transaction',
+)[02/08/2018 17:12:21] 
+ 
+array (
+  'notificationCode' => '41CA79-5082888288D4-0AA4557FA47A-CEC4E7',
+  'notificationType' => 'transaction',
+)[02/08/2018 17:19:02] 
+ 
+array (
+  'notificationCode' => '6BE890-AAD763D76371-C884E53FA864-9DB14B',
+  'notificationType' => 'transaction',
+)[02/08/2018 17:21:18] 
+ 
+array (
+  'notificationCode' => 'A8073E-E352715271DF-E0044F4F8094-DA0BBB',
+  'notificationType' => 'transaction',
+)[02/08/2018 17:21:18] 
+ 
+array (
+  'notificationCode' => 'C14CA1-80B10DB10DCB-2994705F8315-DC4E24',
+  'notificationType' => 'transaction',
+)[02/08/2018 17:21:19] 
+ 
+array (
+  'notificationCode' => 'D73273-4DB918B918B5-011493AF906C-D791DD',
+  'notificationType' => 'transaction',
+)[02/08/2018 17:21:19] 
+ 
+array (
+  'notificationCode' => 'EA9E2D-0C8E8F8E8FD2-B7743D8FA324-46FCE6',
+  'notificationType' => 'transaction',
+)[02/08/2018 17:21:19] 
+ 
+array (
+  'notificationCode' => 'AD3BFA-E98F768F76D7-BBB41F7F8B55-2FB2A2',
+  'notificationType' => 'transaction',
+)[02/08/2018 17:22:35] 
+ 
+array (
+  'notificationCode' => '9B740F-83F7C8F7C821-4004C0BFB4C6-D560EF',
+  'notificationType' => 'transaction',
+)[02/08/2018 17:29:25] 
+ 
+array (
+  'notificationCode' => 'FC4EC1-A03328332885-B6647E3F9200-7F3558',
+  'notificationType' => 'transaction',
+)[02/08/2018 17:29:51] 
+ 
+array (
+  'notificationCode' => '6ADFAD-7A93689368F3-9224FB3F8D71-5C3E5A',
+  'notificationType' => 'transaction',
+)[02/08/2018 17:38:30] 
+ 
+array (
+  'notificationCode' => 'FBB5F3-49FAC9FAC9E9-5DD4D77FBB27-2A8A72',
+  'notificationType' => 'transaction',
+)[02/08/2018 19:16:55] 
+ 
+array (
+  'notificationCode' => '41CA79-5082888288D4-0AA4557FA47A-CEC4E7',
+  'notificationType' => 'transaction',
+)[02/08/2018 19:19:28] 
+ 
+array (
+  'notificationCode' => '6BE890-AAD763D76371-C884E53FA864-9DB14B',
+  'notificationType' => 'transaction',
+)[02/08/2018 19:20:12] 
+ 
+array (
+  'notificationCode' => 'A8073E-E352715271DF-E0044F4F8094-DA0BBB',
+  'notificationType' => 'transaction',
+)[02/08/2018 19:20:12] 
+ 
+array (
+  'notificationCode' => 'D73273-4DB918B918B5-011493AF906C-D791DD',
+  'notificationType' => 'transaction',
+)[02/08/2018 19:20:12] 
+ 
+array (
+  'notificationCode' => 'C14CA1-80B10DB10DCB-2994705F8315-DC4E24',
+  'notificationType' => 'transaction',
+)[02/08/2018 19:20:12] 
+ 
+array (
+  'notificationCode' => 'EA9E2D-0C8E8F8E8FD2-B7743D8FA324-46FCE6',
+  'notificationType' => 'transaction',
+)[02/08/2018 19:20:12] 
+ 
+array (
+  'notificationCode' => 'AD3BFA-E98F768F76D7-BBB41F7F8B55-2FB2A2',
+  'notificationType' => 'transaction',
+)[02/08/2018 19:21:25] 
+ 
+array (
+  'notificationCode' => 'FC4EC1-A03328332885-B6647E3F9200-7F3558',
+  'notificationType' => 'transaction',
+)[02/08/2018 21:16:29] 
+ 
+array (
+  'notificationCode' => 'FBB5F3-49FAC9FAC9E9-5DD4D77FBB27-2A8A72',
+  'notificationType' => 'transaction',
+)[02/08/2018 21:24:54] 
+ 
+array (
+  'notificationCode' => '41CA79-5082888288D4-0AA4557FA47A-CEC4E7',
+  'notificationType' => 'transaction',
+)[02/08/2018 21:27:25] 
+ 
+array (
+  'notificationCode' => '6BE890-AAD763D76371-C884E53FA864-9DB14B',
+  'notificationType' => 'transaction',
+)[02/08/2018 21:28:06] 
+ 
+array (
+  'notificationCode' => 'A8073E-E352715271DF-E0044F4F8094-DA0BBB',
+  'notificationType' => 'transaction',
+)[02/08/2018 21:28:06] 
+ 
+array (
+  'notificationCode' => 'EA9E2D-0C8E8F8E8FD2-B7743D8FA324-46FCE6',
+  'notificationType' => 'transaction',
+)[02/08/2018 21:28:06] 
+ 
+array (
+  'notificationCode' => 'D73273-4DB918B918B5-011493AF906C-D791DD',
+  'notificationType' => 'transaction',
+)[02/08/2018 21:28:06] 
+ 
+array (
+  'notificationCode' => 'C14CA1-80B10DB10DCB-2994705F8315-DC4E24',
+  'notificationType' => 'transaction',
+)[02/08/2018 21:28:06] 
+ 
+array (
+  'notificationCode' => 'AD3BFA-E98F768F76D7-BBB41F7F8B55-2FB2A2',
+  'notificationType' => 'transaction',
+)[02/08/2018 21:29:07] 
+ 
+array (
+  'notificationCode' => 'FC4EC1-A03328332885-B6647E3F9200-7F3558',
+  'notificationType' => 'transaction',
+)[02/08/2018 23:16:56] 
+ 
+array (
+  'notificationCode' => 'FBB5F3-49FAC9FAC9E9-5DD4D77FBB27-2A8A72',
+  'notificationType' => 'transaction',
+)[02/08/2018 23:28:09] 
+ 
+array (
+  'notificationCode' => '41CA79-5082888288D4-0AA4557FA47A-CEC4E7',
+  'notificationType' => 'transaction',
+)[02/08/2018 23:32:00] 
+ 
+array (
+  'notificationCode' => '6BE890-AAD763D76371-C884E53FA864-9DB14B',
+  'notificationType' => 'transaction',
+)[02/08/2018 23:33:13] 
+ 
+array (
+  'notificationCode' => 'A8073E-E352715271DF-E0044F4F8094-DA0BBB',
+  'notificationType' => 'transaction',
+)[02/08/2018 23:33:13] 
+ 
+array (
+  'notificationCode' => 'C14CA1-80B10DB10DCB-2994705F8315-DC4E24',
+  'notificationType' => 'transaction',
+)[02/08/2018 23:33:13] 
+ 
+array (
+  'notificationCode' => 'EA9E2D-0C8E8F8E8FD2-B7743D8FA324-46FCE6',
+  'notificationType' => 'transaction',
+)[02/08/2018 23:33:14] 
+ 
+array (
+  'notificationCode' => 'D73273-4DB918B918B5-011493AF906C-D791DD',
+  'notificationType' => 'transaction',
+)[02/08/2018 23:33:14] 
+ 
+array (
+  'notificationCode' => 'AD3BFA-E98F768F76D7-BBB41F7F8B55-2FB2A2',
+  'notificationType' => 'transaction',
+)[02/08/2018 23:34:31] 
+ 
+array (
+  'notificationCode' => 'FC4EC1-A03328332885-B6647E3F9200-7F3558',
+  'notificationType' => 'transaction',
+)[03/08/2018 01:24:19] 
+ 
+array (
+  'notificationCode' => 'FBB5F3-49FAC9FAC9E9-5DD4D77FBB27-2A8A72',
+  'notificationType' => 'transaction',
+)[03/08/2018 01:29:57] 
+ 
+array (
+  'notificationCode' => '41CA79-5082888288D4-0AA4557FA47A-CEC4E7',
+  'notificationType' => 'transaction',
+)[03/08/2018 01:32:18] 
+ 
+array (
+  'notificationCode' => 'A8073E-E352715271DF-E0044F4F8094-DA0BBB',
+  'notificationType' => 'transaction',
+)[03/08/2018 01:32:57] 
+ 
+array (
+  'notificationCode' => '6BE890-AAD763D76371-C884E53FA864-9DB14B',
+  'notificationType' => 'transaction',
+)[03/08/2018 01:32:57] 
+ 
+array (
+  'notificationCode' => 'C14CA1-80B10DB10DCB-2994705F8315-DC4E24',
+  'notificationType' => 'transaction',
+)[03/08/2018 01:32:57] 
+ 
+array (
+  'notificationCode' => 'EA9E2D-0C8E8F8E8FD2-B7743D8FA324-46FCE6',
+  'notificationType' => 'transaction',
+)[03/08/2018 01:32:58] 
+ 
+array (
+  'notificationCode' => 'D73273-4DB918B918B5-011493AF906C-D791DD',
+  'notificationType' => 'transaction',
+)[03/08/2018 01:32:59] 
+ 
+array (
+  'notificationCode' => 'AD3BFA-E98F768F76D7-BBB41F7F8B55-2FB2A2',
+  'notificationType' => 'transaction',
+)[03/08/2018 01:33:51] 
+ 
+array (
+  'notificationCode' => 'FC4EC1-A03328332885-B6647E3F9200-7F3558',
+  'notificationType' => 'transaction',
+)[03/08/2018 03:27:28] 
+ 
+array (
+  'notificationCode' => 'FBB5F3-49FAC9FAC9E9-5DD4D77FBB27-2A8A72',
+  'notificationType' => 'transaction',
+)[03/08/2018 03:32:54] 
+ 
+array (
+  'notificationCode' => 'FC4EC1-A03328332885-B6647E3F9200-7F3558',
+  'notificationType' => 'transaction',
+)[03/08/2018 05:28:03] 
+ 
+array (
+  'notificationCode' => 'AE5B2B-61C061C0611C-14445DDF8F2C-C6F036',
+  'notificationType' => 'transaction',
+)[03/08/2018 16:41:03] 
+ 
+array (
+  'notificationCode' => 'AE5B2B-61C061C0611C-14445DDF8F2C-C6F036',
+  'notificationType' => 'transaction',
+)[03/08/2018 17:23:33] 
+ 
+array (
+  'notificationCode' => 'AE5B2B-61C061C0611C-14445DDF8F2C-C6F036',
+  'notificationType' => 'transaction',
+)[03/08/2018 19:24:13] 
+ 
+array (
+  'notificationCode' => 'AE5B2B-61C061C0611C-14445DDF8F2C-C6F036',
+  'notificationType' => 'transaction',
+)[03/08/2018 21:26:10] 
+ 
+array (
+  'notificationCode' => 'AE5B2B-61C061C0611C-14445DDF8F2C-C6F036',
+  'notificationType' => 'transaction',
+)[03/08/2018 23:32:10] 
+ 
+array (
+  'notificationCode' => 'AE5B2B-61C061C0611C-14445DDF8F2C-C6F036',
+  'notificationType' => 'transaction',
+)[04/08/2018 01:32:48] 
+ 
+array (
+  'notificationCode' => '5C4468-F4047F047F92-2334CFAFB4B8-8C89E9',
+  'notificationType' => 'transaction',
+)[06/08/2018 21:26:47] 
+ 
+array (
+  'notificationCode' => '5C4468-F4047F047F92-2334CFAFB4B8-8C89E9',
+  'notificationType' => 'transaction',
+)[06/08/2018 23:18:28] 
+ 
+array (
+  'notificationCode' => '5C4468-F4047F047F92-2334CFAFB4B8-8C89E9',
+  'notificationType' => 'transaction',
+)[07/08/2018 01:25:17] 
+ 
+array (
+  'notificationCode' => '5C4468-F4047F047F92-2334CFAFB4B8-8C89E9',
+  'notificationType' => 'transaction',
+)[07/08/2018 03:37:40] 
+ 
+array (
+  'notificationCode' => '5C4468-F4047F047F92-2334CFAFB4B8-8C89E9',
+  'notificationType' => 'transaction',
+)[07/08/2018 05:37:24] 
+ 
+array (
+  'notificationCode' => '5C4468-F4047F047F92-2334CFAFB4B8-8C89E9',
+  'notificationType' => 'transaction',
+)[07/08/2018 07:33:17] 
+ 
+array (
+  'notificationCode' => '1BFA64-C3E24DE24DD6-8BB4735FAFF3-6D38AE',
+  'notificationType' => 'transaction',
+)[08/08/2018 15:03:28] 
+ 
+array (
+  'notificationCode' => '1BFA64-C3E24DE24DD6-8BB4735FAFF3-6D38AE',
+  'notificationType' => 'transaction',
+)[08/08/2018 17:16:37] 
+ 
+array (
+  'notificationCode' => '1BFA64-C3E24DE24DD6-8BB4735FAFF3-6D38AE',
+  'notificationType' => 'transaction',
+)[08/08/2018 19:20:10] 
+ 
+array (
+  'notificationCode' => '1BFA64-C3E24DE24DD6-8BB4735FAFF3-6D38AE',
+  'notificationType' => 'transaction',
+)[08/08/2018 21:24:44] 
+ 
+array (
+  'notificationCode' => '1BFA64-C3E24DE24DD6-8BB4735FAFF3-6D38AE',
+  'notificationType' => 'transaction',
+)[08/08/2018 23:27:42] 
+ 
+array (
+  'notificationCode' => '1BFA64-C3E24DE24DD6-8BB4735FAFF3-6D38AE',
+  'notificationType' => 'transaction',
+)[09/08/2018 01:32:23] 
+ 

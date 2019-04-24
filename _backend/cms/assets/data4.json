@@ -1,0 +1,481 @@
+[{
+    "id": 1,
+    "company-name": "Gonzalo",
+    "city": "Kokterek",
+    "street-address": "24 Kings Center",
+    "phone": "7-(166) 333-9738",
+    "employees": 59,
+    "state": true
+}, {
+    "id": 2,
+    "company-name": "Truda",
+    "city": "Mayong",
+    "street-address": "4 Pleasure Circle",
+    "phone": "86-(365) 361-4514",
+    "employees": 32,
+    "state": false
+}, {
+    "id": 3,
+    "company-name": "Rozanna",
+    "city": "Sharjah",
+    "street-address": "83 Eagle Crest Alley",
+    "phone": "971-(363) 849-8819",
+    "employees": 52,
+    "state": false
+}, {
+    "id": 4,
+    "company-name": "Gonzalo",
+    "city": "Mölndal",
+    "street-address": "80 Esker Center",
+    "phone": "46-(337) 814-3705",
+    "employees": 34,
+    "state": false
+}, {
+    "id": 5,
+    "company-name": "Gizela",
+    "city": "Zwierzyniec",
+    "street-address": "26467 Dahle Lane",
+    "phone": "48-(586) 588-8097",
+    "employees": 93,
+    "state": false
+}, {
+    "id": 6,
+    "company-name": "Emmalynn",
+    "city": "Vermoim",
+    "street-address": "6753 Montana Trail",
+    "phone": "351-(452) 883-9282",
+    "employees": 94,
+    "state": false
+}, {
+    "id": 7,
+    "company-name": "Gonzalo",
+    "city": "Girihieum",
+    "street-address": "1468 Roxbury Parkway",
+    "phone": "62-(938) 972-8539",
+    "employees": 6,
+    "state": false
+}, {
+    "id": 8,
+    "company-name": "Truda",
+    "city": "Labruge",
+    "street-address": "08 Shoshone Park",
+    "phone": "351-(493) 350-4789",
+    "employees": 4,
+    "state": false
+}, {
+    "id": 9,
+    "company-name": "Ossie",
+    "city": "Trikora",
+    "street-address": "1 Autumn Leaf Road",
+    "phone": "62-(578) 501-6213",
+    "employees": 60,
+    "state": false
+}, {
+    "id": 10,
+    "company-name": "Agnesse",
+    "city": "Guará",
+    "street-address": "758 Muir Road",
+    "phone": "55-(726) 503-6573",
+    "employees": 17,
+    "state": false
+}, {
+    "id": 11,
+    "company-name": "Gonzalo",
+    "city": "Belén de los Andaquíes",
+    "street-address": "53566 Prairieview Hill",
+    "phone": "57-(754) 433-2712",
+    "employees": 14,
+    "state": false
+}, {
+    "id": 12,
+    "company-name": "Truda",
+    "city": "Miguel Aleman",
+    "street-address": "5 Buhler Road",
+    "phone": "52-(486) 686-2610",
+    "employees": 68,
+    "state": false
+}, {
+    "id": 13,
+    "company-name": "Cody",
+    "city": "Jacksonville",
+    "street-address": "43 Westridge Terrace",
+    "phone": "1-(904) 189-5379",
+    "employees": 67,
+    "state": false
+}, {
+    "id": 14,
+    "company-name": "Nigel",
+    "city": "Gengzhuang",
+    "street-address": "167 Lakewood Gardens Street",
+    "phone": "86-(382) 994-5047",
+    "employees": 30,
+    "state": false
+}, {
+    "id": 15,
+    "company-name": "Gonzalo",
+    "city": "Néa Smýrni",
+    "street-address": "913 Twin Pines Crossing",
+    "phone": "30-(889) 790-5456",
+    "employees": 52,
+    "state": false
+}, {
+    "id": 16,
+    "company-name": "Agnesse",
+    "city": "Darungan",
+    "street-address": "5618 Becker Center",
+    "phone": "62-(292) 603-7379",
+    "employees": 67,
+    "state": false
+}, {
+    "id": 17,
+    "company-name": "Cody",
+    "city": "Xixiang",
+    "street-address": "61 Shoshone Lane",
+    "phone": "86-(781) 407-9248",
+    "employees": 57,
+    "state": false
+}, {
+    "id": 18,
+    "company-name": "Gonzalo",
+    "city": "Annecy",
+    "street-address": "5466 Transport Drive",
+    "phone": "33-(189) 552-6206",
+    "employees": 16,
+    "state": false
+}, {
+    "id": 19,
+    "company-name": "Agnesse",
+    "city": "Pétionville",
+    "street-address": "7 Killdeer Point",
+    "phone": "509-(763) 955-9349",
+    "employees": 71,
+    "state": false
+}, {
+    "id": 20,
+    "company-name": "Truda",
+    "city": "Miraflores",
+    "street-address": "29 Upham Junction",
+    "phone": "351-(539) 705-4644",
+    "employees": 91,
+    "state": false
+}, {
+    "id": 21,
+    "company-name": "Agnesse",
+    "city": "Cluses",
+    "street-address": "67 Florence Plaza",
+    "phone": "33-(287) 381-3373",
+    "employees": 77,
+    "state": false
+}, {
+    "id": 22,
+    "company-name": "Nigel",
+    "city": "Sendangagung",
+    "street-address": "9 Hoepker Point",
+    "phone": "62-(985) 233-4596",
+    "employees": 48,
+    "state": false
+}, {
+    "id": 23,
+    "company-name": "Gonzalo",
+    "city": "Callanca",
+    "street-address": "4 Algoma Point",
+    "phone": "51-(419) 654-9777",
+    "employees": 10,
+    "state": false
+}, {
+    "id": 24,
+    "company-name": "Britta",
+    "city": "Nanto-shi",
+    "street-address": "3 Fordem Point",
+    "phone": "81-(914) 658-4921",
+    "employees": 3,
+    "state": false
+}, {
+    "id": 25,
+    "company-name": "Rozanna",
+    "city": "Gromnik",
+    "street-address": "66 Menomonie Alley",
+    "phone": "48-(299) 435-1494",
+    "employees": 38,
+    "state": false
+}, {
+    "id": 26,
+    "company-name": "Truda",
+    "city": "Plyussa",
+    "street-address": "23 Weeping Birch Circle",
+    "phone": "7-(994) 438-3336",
+    "employees": 67,
+    "state": false
+}, {
+    "id": 27,
+    "company-name": "Cody",
+    "city": "Darwin",
+    "street-address": "552 Morning Terrace",
+    "phone": "54-(842) 893-5215",
+    "employees": 43,
+    "state": false
+}, {
+    "id": 28,
+    "company-name": "Agnesse",
+    "city": "Xialu",
+    "street-address": "47 Corben Park",
+    "phone": "86-(875) 693-0166",
+    "employees": 97,
+    "state": false
+}, {
+    "id": 29,
+    "company-name": "Gizela",
+    "city": "Boshkengash",
+    "street-address": "39 Truax Plaza",
+    "phone": "992-(376) 772-9930",
+    "employees": 65,
+    "state": false
+}, {
+    "id": 30,
+    "company-name": "Ossie",
+    "city": "Sypniewo",
+    "street-address": "8 Pine View Plaza",
+    "phone": "48-(691) 422-2956",
+    "employees": 82,
+    "state": false
+}, {
+    "id": 31,
+    "company-name": "Cody",
+    "city": "Kan’onjichō",
+    "street-address": "0017 Glacier Hill Parkway",
+    "phone": "81-(977) 144-8294",
+    "employees": 6,
+    "state": false
+}, {
+    "id": 32,
+    "company-name": "Agnesse",
+    "city": "Geldrop",
+    "street-address": "2175 Forest Dale Point",
+    "phone": "31-(759) 762-7559",
+    "employees": 43,
+    "state": false
+}, {
+    "id": 33,
+    "company-name": "Truda",
+    "city": "Phra Phutthabat",
+    "street-address": "34003 Raven Junction",
+    "phone": "66-(170) 987-9514",
+    "employees": 8,
+    "state": false
+}, {
+    "id": 34,
+    "company-name": "Ossie",
+    "city": "Wangjiachang",
+    "street-address": "938 Fulton Circle",
+    "phone": "86-(730) 699-1620",
+    "employees": 64,
+    "state": false
+}, {
+    "id": 35,
+    "company-name": "Cody",
+    "city": "Chicago",
+    "street-address": "698 Westerfield Parkway",
+    "phone": "1-(773) 129-7409",
+    "employees": 35,
+    "state": false
+}, {
+    "id": 36,
+    "company-name": "Nigel",
+    "city": "Salt Lake City",
+    "street-address": "05 Johnson Plaza",
+    "phone": "1-(801) 696-1864",
+    "employees": 39,
+    "state": false
+}, {
+    "id": 37,
+    "company-name": "Agnesse",
+    "city": "Lyon",
+    "street-address": "991 Washington Hill",
+    "phone": "33-(449) 109-8919",
+    "employees": 84,
+    "state": false
+}, {
+    "id": 38,
+    "company-name": "Emmalynn",
+    "city": "Paço de Arcos",
+    "street-address": "6170 Michigan Crossing",
+    "phone": "351-(950) 499-2372",
+    "employees": 28,
+    "state": false
+}, {
+    "id": 39,
+    "company-name": "Cody",
+    "city": "Pisões",
+    "street-address": "08869 Hanover Park",
+    "phone": "351-(787) 393-5662",
+    "employees": 53,
+    "state": false
+}, {
+    "id": 40,
+    "company-name": "Gizela",
+    "city": "Xibin",
+    "street-address": "52 Melby Road",
+    "phone": "86-(463) 887-7380",
+    "employees": 43,
+    "state": false
+}, {
+    "id": 41,
+    "company-name": "Truda",
+    "city": "Linjiang",
+    "street-address": "2 Valley Edge Plaza",
+    "phone": "86-(131) 725-2153",
+    "employees": 63,
+    "state": false
+}, {
+    "id": 42,
+    "company-name": "Gizela",
+    "city": "Martil",
+    "street-address": "7 Vahlen Center",
+    "phone": "212-(312) 140-5365",
+    "employees": 93,
+    "state": false
+}, {
+    "id": 43,
+    "company-name": "Nigel",
+    "city": "Bayt ‘Awwā",
+    "street-address": "7305 Clyde Gallagher Place",
+    "phone": "970-(102) 798-2258",
+    "employees": 86,
+    "state": false
+}, {
+    "id": 44,
+    "company-name": "Cody",
+    "city": "Balai",
+    "street-address": "36916 Vahlen Trail",
+    "phone": "62-(215) 820-5222",
+    "employees": 6,
+    "state": false
+}, {
+    "id": 45,
+    "company-name": "Nigel",
+    "city": "Cinyasag",
+    "street-address": "7210 Elmside Drive",
+    "phone": "62-(512) 103-9911",
+    "employees": 3,
+    "state": false
+}, {
+    "id": 46,
+    "company-name": "Rozanna",
+    "city": "Jidd Ḩafş",
+    "street-address": "0 International Place",
+    "phone": "973-(948) 554-2732",
+    "employees": 70,
+    "state": false
+}, {
+    "id": 47,
+    "company-name": "Britta",
+    "city": "Nova Odessa",
+    "street-address": "05293 Elmside Alley",
+    "phone": "55-(327) 984-4728",
+    "employees": 47,
+    "state": false
+}, {
+    "id": 48,
+    "company-name": "Alberta",
+    "city": "Semenivka",
+    "street-address": "684 Jenifer Pass",
+    "phone": "380-(650) 673-9056",
+    "employees": 47,
+    "state": false
+}, {
+    "id": 49,
+    "company-name": "Emmalynn",
+    "city": "Czudec",
+    "street-address": "5198 Erie Park",
+    "phone": "48-(572) 175-8588",
+    "employees": 43,
+    "state": false
+}, {
+    "id": 50,
+    "company-name": "Cody",
+    "city": "Gävle",
+    "street-address": "56 Spaight Street",
+    "phone": "46-(914) 928-6602",
+    "employees": 74,
+    "state": false
+}, {
+    "id": 51,
+    "company-name": "Alberta",
+    "city": "Bella Vista",
+    "street-address": "839 Hudson Plaza",
+    "phone": "54-(996) 573-2155",
+    "employees": 17,
+    "state": false
+}, {
+    "id": 52,
+    "company-name": "Emmalynn",
+    "city": "Tomepampa",
+    "street-address": "47 Duke Pass",
+    "phone": "51-(375) 627-9115",
+    "employees": 77,
+    "state": false
+}, {
+    "id": 53,
+    "company-name": "Rozanna",
+    "city": "Retiro",
+    "street-address": "1274 Sundown Terrace",
+    "phone": "54-(264) 780-8230",
+    "employees": 41,
+    "state": false
+}, {
+    "id": 54,
+    "company-name": "Amaleta",
+    "city": "Tanout",
+    "street-address": "758 Vernon Street",
+    "phone": "227-(872) 859-4942",
+    "employees": 50,
+    "state": false
+}, {
+    "id": 55,
+    "company-name": "Alberta",
+    "city": "Old Kilcullen",
+    "street-address": "9 Parkside Plaza",
+    "phone": "353-(963) 223-5224",
+    "employees": 79,
+    "state": false
+}, {
+    "id": 56,
+    "company-name": "Amaleta",
+    "city": "San Jose",
+    "street-address": "3 Burrows Place",
+    "phone": "52-(648) 899-7570",
+    "employees": 66,
+    "state": false
+}, {
+    "id": 57,
+    "company-name": "Cody",
+    "city": "Piñahan",
+    "street-address": "97415 Dexter Park",
+    "phone": "63-(583) 560-4745",
+    "employees": 92,
+    "state": false
+}, {
+    "id": 58,
+    "company-name": "Emmalynn",
+    "city": "Shuishaping",
+    "street-address": "6770 Homewood Place",
+    "phone": "86-(685) 811-4344",
+    "employees": 87,
+    "state": false
+}, {
+    "id": 59,
+    "company-name": "Amaleta",
+    "city": "Yongdong",
+    "street-address": "69187 Marquette Trail",
+    "phone": "86-(533) 808-1531",
+    "employees": 72,
+    "state": false
+}, {
+    "id": 60,
+    "company-name": "Ossie",
+    "city": "Thanh Xuân",
+    "street-address": "2 Petterle Plaza",
+    "phone": "84-(580) 392-4737",
+    "employees": 8,
+    "state": false
+}]

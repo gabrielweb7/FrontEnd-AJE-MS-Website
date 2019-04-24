@@ -1,0 +1,72 @@
+/**
+* ▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄
+*                   Criado por Gabriel Azuaga Barbosa
+*                  E-mail: gabrielbarbosaweb7@gmail.com
+*  `•.¸¸.•´´¯`••._.• [ http://gabrieldaluz7.co.nf/ ] •._.••`¯´´•.¸¸.•`
+* ▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄
+*/
+
+@media only screen and (max-width: 1199px) {
+	header .menu .container > ul > li > a { font-size:16px; padding: 10px 6px; }
+	.ultimas-noticias .noticia {     position: relative;     min-height: 70px;     padding-left: 94px;     margin-bottom: 15px; }
+	.ultimas-noticias .noticia .datebox {      position: absolute;     top: 0px;     left: 0px; float:initial; }
+	.ultimas-noticias .noticia > p {     margin-bottom: 3px; }
+	#section-1 { padding-bottom:10px !important; }
+}
+
+@media only screen and (max-width: 991px) {
+	.projetos-em-destaque { padding-top:20px; }
+	.ultimas-noticias .btn-ver-todas-noticias { margin-bottom:8px; }
+	footer .redesSociais > ul { text-align: center; }
+	header .menu { padding-bottom: 3px; }
+	header .menu .container > ul > li > a {  font-size: 14px;     padding: 9px 4px;}
+}
+
+@media only screen and (max-width: 767px) {
+	.curta-aje-ms { margin-top: 20px; }
+	.canal-aje-ms iframe { height:198px;  }
+	header .menu ul > li { display: table !important; width: 100%; } 
+	header .menu ul > li.active {  border-top: 2px solid transparent; }
+	ul#navbar .dropdown-menu { position: relative; width: 100%; margin-bottom: 11px !important; } 
+}
+
+
+@media only screen and (max-width: 676px) {
+	.ui-datepicker { width: 100%; }
+	.ultimas-noticias .noticia > p {     padding-right: 10px; }
+	.rede-empreendedora .videoconferencia .texto p.super { font-size: 37px; text-align: center; }
+	.rede-empreendedora .encontros .texto p.super {      text-align-last: initial;  text-align:center; }
+}
+
+
+@media only screen and (max-width: 585px) { 
+	.canal-aje-ms { margin-top:20px; }
+	.col-xs-6 { width:100% !important; }
+	.receba-novidades .col-title { padding-bottom:5px; }
+	.sliderTope img {  width: 100%; height: 215px; object-fit: cover; } 
+		.rede-empreendedora .videoconferencia .texto p.super { font-size: 30px; }
+		.rede-empreendedora .foruns .super { font-size: 51px; }
+
+
+}
+
+@media only screen and (max-width: 500px) { 
+	.projeto-single .conteudo { padding-left: 5px; padding-right: 5px }
+}
+
+@media only screen and (max-width: 455px) { 
+	footer .box > p { font-size:15px; }
+	.redesSociais img { height:40px;  }
+	.noticia-single .titulo { font-size: 22px; }
+	.noticia-single .subtitulo { font-size: 16px; }
+	.noticia-single .dataCriacao { font-size:12px; }
+	.noticia-single .imagem {     float: initial; width: 100%; max-width: initial; margin: 0px; padding: 0px; padding-bottom: 24px; }
+	.noticia-single {     padding-left: 15px; padding-right: 15px;  }
+}
+
+@media only screen and (max-width: 425px) { 
+	.ultimas-noticias .noticia > .datebox > span:first-child { font-size: 24px; }
+	.ultimas-noticias .noticia > .datebox > span:last-child { font-size:12px; }
+	.ultimas-noticias .noticia > .datebox { width: 61px;     height: 56px; }
+	.ultimas-noticias .noticia { padding-left: 75px; }
+}
