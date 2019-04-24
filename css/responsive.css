@@ -1,0 +1,52 @@
+/**
+* ▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄
+*                   Criado por Gabriel Azuaga Barbosa
+*                  E-mail: gabrielbarbosaweb7@gmail.com
+*  `•.¸¸.•´´¯`••._.• [ http://gabrieldaluz7.co.nf/ ] •._.••`¯´´•.¸¸.•`
+* ▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄
+*/
+
+@media only screen and (max-width: 1199px) {
+	header .menu .container > ul > li > a { font-size:16px; padding: 10px 6px; }
+	.ultimas-noticias .noticia {     position: relative;     min-height: 70px;     padding-left: 94px;     margin-bottom: 15px; }
+	.ultimas-noticias .noticia .datebox {      position: absolute;     top: 0px;     left: 0px; float:initial; }
+	.ultimas-noticias .noticia > p {     margin-bottom: 3px; }
+	#section-1 { padding-bottom:10px !important; }
+}
+
+@media only screen and (max-width: 991px) {
+	.projetos-em-destaque { padding-top:20px; }
+	.ultimas-noticias .btn-ver-todas-noticias { margin-bottom:8px; }
+	footer .redesSociais > ul { text-align: center; }
+	header .menu { padding-bottom: 3px; }
+}
+
+@media only screen and (max-width: 767px) {
+	.curta-aje-ms { margin-top: 20px; }
+	.canal-aje-ms iframe { height:198px;  }
+}
+
+
+@media only screen and (max-width: 676px) {
+	.ui-datepicker { width: 100%; }
+	.ultimas-noticias .noticia > p {     padding-right: 10px; }
+}
+
+
+@media only screen and (max-width: 585px) { 
+	.canal-aje-ms { margin-top:20px; }
+	.col-xs-6 { width:100% !important; }
+	.receba-novidades .col-title { padding-bottom:5px; }
+}
+
+@media only screen and (max-width: 455px) { 
+	footer .box > p { font-size:15px; }
+	.redesSociais img { height:40px;  }
+}
+
+@media only screen and (max-width: 425px) { 
+	.ultimas-noticias .noticia > .datebox > span:first-child { font-size: 24px; }
+	.ultimas-noticias .noticia > .datebox > span:last-child { font-size:12px; }
+	.ultimas-noticias .noticia > .datebox { width: 61px;     height: 56px; }
+	.ultimas-noticias .noticia { padding-left: 75px; }
+}

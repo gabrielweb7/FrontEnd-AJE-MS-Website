@@ -1,0 +1,94 @@
+/**
+* ▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄
+*                   Criado por Gabriel Azuaga Barbosa
+*                  E-mail: gabrielbarbosaweb7@gmail.com
+*  `•.¸¸.•´´¯`••._.• [ http://gabrieldaluz7.co.nf/ ] •._.••`¯´´•.¸¸.•`
+* ▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄
+*/
+
+/* Reset */
+* { font-family: 'Ubuntu', sans-serif; font-weight:400; }
+a { color:initial; }
+a, a:hover, a:visited, a:focus { text-decoration:none; }
+html, body { border:0; padding:0; margin:0; }
+
+/* Variables */
+.pd-top-12 { padding-top:12px; }
+.pd-top-15 { padding-top:15px; }
+.pd-top-20 { padding-top:20px; }
+.pd-top-25 { padding-top:25px; }
+.pd-top-30 { padding-top:30px; }
+.pd-top-35 { padding-top:35px; }
+.pd-bottom-20 { padding-bottom:20px; }
+.pd-bottom-25 { padding-bottom:25px; }
+.pd-bottom-30 { padding-bottom:30px; }
+.pd-bottom-35 { padding-bottom:35px; }
+.highlighted a { 		background-color: green !important; 		background-image:none !important; 		color: white !important; 		font-weight: bold !important; 	}
+
+/* Jquery Ui Calendar */
+.ui-datepicker { margin: 0 auto; width: 92%; }
+.ui-datepicker td a { padding: 8px 0.2em;     text-align: center; }
+.ui-state-active { background: #f6f6f6 !important; color: #454545 !important; }
+.ui-state-highlight { background:#fffa90 !important; }
+
+/* Header */
+header:before { content: ""; display:block; width:100%; height:3px; background:#d2d0d1;}
+header  { border-top:8px solid #008052; }
+
+/* Header :: logo */
+header .logo  { text-align:center; padding:30px 0px; }
+header .logo img  {  transition: all .2s ease-in-out; max-width:80%; width:353px; }
+header .logo img:hover  { transform: scale(1.02); }
+
+/* Header :: menu */
+header .menu  { border-top:1px solid #e5e5e5;  border-bottom:1px solid #e5e5e5; }
+header .menu .container > ul { list-style:none; margin:0px; padding:0px; text-align: center; }
+header .menu .container > ul > li { display:inline-block; border-top:1px solid transparent; transition: all 0.2s ease-out 0s; }
+header .menu .container > ul > li > a { font-size:18px; color:#7b7b7b; padding:10px 11px; padding-top:6px; display:block; font-weight:500;transition: all 0.2s ease-out 0s; }
+header .menu .container > ul > li:hover { border-top:2px solid #ffcc29; }
+header .menu .container > ul > li:hover > a { color:#ffcc29; }
+header .menu .container > ul > li.active { border-top:2px solid #ffcc29; }
+header .menu .container > ul > li.active > a { color:#ffcc29; }
+
+/* Section */
+div#superSlide img { max-height: 315px; min-height:160px; object-fit:cover; }
+
+
+/* Section */
+section .col-title { position:relative; padding-bottom:18px; }
+section .col-title > span { font-weight:500; font-size:22px; color:#008052; background:white; display:inline-block; padding-right:15px; position:relative; }
+section .col-title:before { content:""; display:block; position:absolute; top:17px; left:0px; width:100%; height:1px; background:#008052; }
+
+/* home::ultimas-noticias */
+.ultimas-noticias .noticia > p { font-size:14px; }
+.ultimas-noticias .noticia > p > b { font-size:16px; color:#008052; }
+.ultimas-noticias .noticia > .datebox { margin-right: 15px;     margin-bottom: 5px; background:#008052; width:80px; height:65px;     float: left; }
+.ultimas-noticias .noticia > .datebox > span:first-child { display:block; text-align:center; color:white; font-size:29px;  }
+.ultimas-noticias .noticia > .datebox > span:last-child { display: block;     text-align: center;     color: white;     position: relative;     font-size: 14px;     top: -3px;}
+.ultimas-noticias .btn-ver-todas-noticias {  transition: all 0.3s ease-out 0s; background:#008052; color:white; border:0px solid transparent; padding:8px 15px; font-size:14px; display:table; margin: 0 auto;  margin-top:15px; }
+.ultimas-noticias .btn-ver-todas-noticias:hover { background:#f3b719; color:white; }
+
+/* Receba Novidades */
+.receba-novidades form > .form-line { }
+.receba-novidades form > .form-line > .title { font-size:13px; padding-bottom:8px; }
+.receba-novidades form > .form-line > .title > span { color:red; }
+.receba-novidades form > .form-line > .input { }
+.receba-novidades form > .form-line > .input > input { padding:0px 10px; font-weight:500; width:100%; height:31px; border:1px solid #008052; }
+.receba-novidades form > input[type="submit"] { transition: all 0.3s ease-out 0s; margin-top:15px; background:#008052; color:white; border:0px solid transparent; padding:8px 15px; font-size:14px; }
+.receba-novidades form > input[type="submit"]:hover { background:#f3b719; color:white; }
+
+/* footer */
+footer { border-top:2px solid #d2d0d1; background:#008052; padding:30px 0px; }
+footer .box { border-left:3px solid #004c31; padding-top:2px; padding-bottom:4px; padding-left:20px; }
+footer .box > p { color:white; font-size:16px; }
+footer .box > p:last-child { margin-bottom:0px; }
+footer .redesSociais { padding-top:40px; }
+footer .redesSociais > ul { list-style:none; padding:0px;  text-align:right; }
+footer .redesSociais > ul > li { display:inline-block; padding:0px 6px;  }
+footer .redesSociais > ul > li img { transition: all 0.2s ease-out 0s;  }
+footer .redesSociais > ul > li img:hover { transform:scale(1.1);  }
+
+/* copyright */
+div.copyright { background:#004c31;    padding: 10px 0px;     padding-bottom: 12px; text-align:center; }
+div.copyright img { height:45px; transition: all .2s ease-in-out;  }
+div.copyright img:hover {  transform: scale(1.02); }
